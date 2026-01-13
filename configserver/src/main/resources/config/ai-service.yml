@@ -31,5 +31,5 @@ kafka:
 
 gemini:
   api:
-    key: AIzaSyC-5e3YBJzR2n0bjH4Xh8hm8VcO7VHcJgM
+    key: yourkey
     url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
